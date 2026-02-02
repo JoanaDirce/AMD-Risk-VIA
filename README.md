@@ -1,5 +1,4 @@
 # AMD-Risk-VIA
-# AMD Risk Score Calculator
 
 A Python-based tool for calculating the **Risk Score** of Age-Related Macular Degeneration (AMD) progression. This project implements the novel **Variational Influence Analysis (VIA)** model to compute risk scores based on patient lifestyle, demographic, genetic, and environmental factors.
 
@@ -41,11 +40,13 @@ Ensure you have Python 3.8+ installed.
 
 ### 2. Installation
 
-Clone the repository and install the required packages:
+Download the repository and install the required packages:
 
-git clone https://github.com/.../AMD-Risk-VIA.git
+```bash
+# If using the downloaded ZIP file, unzip it and navigate to the folder:
 cd AMD-Risk-VIA
 pip install -r requirements.txt
+```
 
 ## 3. Usage
 
