@@ -43,7 +43,7 @@ Ensure you have Python 3.8+ installed.
 
 Clone the repository and install the required packages:
 
-git clone https://github.com/your-username/AMD-Risk-VIA.git
+git clone https://github.com/.../AMD-Risk-VIA.git
 cd AMD-Risk-VIA
 pip install -r requirements.txt
 
